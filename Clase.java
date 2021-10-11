@@ -1,4 +1,5 @@
 
 public class Clase {
-	int i=0;
+	//Cambios
+	int i=1;
 }
